@@ -1,0 +1,7 @@
+com\userinfo\controller\TestController.class
+com\userinfo\controller\Data.class
+com\userinfo\controller\EncryptResponse.class
+com\userinfo\controller\PersonalInfo.class
+com\userinfo\controller\FrontendController.class
+com\userinfo\controller\TestDataDAO.class
+com\userinfo\main\UserInfoApplication.class
